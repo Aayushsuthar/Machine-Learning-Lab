@@ -1,4 +1,3 @@
-# Machine-Learning-Lab
 # Machine Learning Laboratory
 
 ## 📌 Overview
@@ -29,8 +28,14 @@ Students will perform experiments on data preprocessing, classification, regress
 
 ## 🛠 Requirements
 - Python 3.x  
-- Libraries: `numpy`, `pandas`, `scikit-learn`, `matplotlib`, `seaborn`  
+- Libraries: `numpy`, `pandas`, `scikit-learn`, `matplotlib`, `seaborn`.  
 
 Install dependencies:
+
 ```bash
 pip install -r requirements.txt
+
+
+## Author
+Aayush Suthar 
+Contacts:aayushsuthar5115@gmail.com
