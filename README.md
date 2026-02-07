@@ -1,4 +1,4 @@
-# Machine Learning Laboratory
+# Machine Learning and Deep Learning Laboratory
 
 ## 📌 Overview
 This course provides hands-on experience with key Machine Learning techniques.  
