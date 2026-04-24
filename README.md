@@ -1,11 +1,11 @@
 # Machine Learning and Deep Learning Laboratory
 
 ## 📌 Overview
-This course provides hands-on experience with key Machine Learning techniques.  
+This course provides hands-on experience with key Machine Learning and Deep Learning techniques.  
 Students will perform experiments on data preprocessing, classification, regression, and model evaluation using real-world datasets.  
 
 ## 🔬 Experiments
-- **Data Preprocessing**: Cleaning, normalization, handling missing values  
+- **Data Preprocessing**: Cleaning, normalisation, handling missing values  
 - **Classifiers**:  
   - Bayesian Classifiers  
   - Decision Trees  
